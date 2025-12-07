@@ -1,13 +1,13 @@
 
 /* Account Page Styles */
-.account-container {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 120px 20px 60px 20px;
-}
-
+.account-container { 
+    min-height: 100vh; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 120px 20px 60px 20px; 
+} 
+ 
 .hidden {
     display: none !important; 
 }
