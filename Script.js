@@ -6,7 +6,7 @@
         if (document.body.scrollTop > 300 || document.documentElement.scrollTop > 300) { ///if user scroll 300px
             scrollBtn.classList.add("show"); ///then css se button dikhne lagega.
         } else { ///dubara upper gaya to btn hide
-            scrollBtn.classList.remove("show"); 
+            scrollBtn.classList.remove("show");  
         }
     };
 
